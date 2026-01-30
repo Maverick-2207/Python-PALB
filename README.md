@@ -19,23 +19,6 @@ This repository contains Python programs covering core concepts taught in colleg
 
 Each program is written in a clean and beginner-friendly manner.
 
----
-
-## 📂 Folder Structure
-
-```
-Python-PLab/
-│
-├── Basics/
-├── Conditionals/
-├── Loops/
-├── Functions/
-├── Lists & Strings/
-├── File Handling/
-└── Practice Problems/
-```
-
-*(Structure may expand as more programs are added)*
 
 ---
 
